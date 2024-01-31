@@ -1,1 +1,6 @@
 # Activities-Kotlin-Training
+
+This repo is a list of activities of the Kotlin Training
+
+
+New line to README
